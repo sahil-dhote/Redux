@@ -13,9 +13,6 @@ Dependencies Installed
 
 - npm install react-redux
 
-
-Creating TODO app
-
 Steps we followed
 
 1) Creating the store
